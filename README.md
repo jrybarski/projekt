@@ -24,3 +24,11 @@ Opis projektu.
 
 https://github.com/jrybarski/projekt
 
+
+
+\## Ignorowane pliki
+
+
+
+\- notatki.txt
+
